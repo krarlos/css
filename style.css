@@ -12,3 +12,6 @@ h2 {
 h3 {
   color: aqua;
 }
+p {
+  grid-row: auto;
+}
